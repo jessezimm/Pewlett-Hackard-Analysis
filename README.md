@@ -8,7 +8,7 @@ Below, are some notable results of the Pewlett-Hackard silver tsunami.
 
 - Senior engineers and senior staff have almost 60,000 employees eligible for retirement
 - Only two managers are eligible for retirement
-- 
+ 
 <img width="359" alt="retirement title" src="https://user-images.githubusercontent.com/88340176/140577991-5231b4ea-2b8f-4dce-a938-02848c6248d6.PNG">
 
 - Approximately 1500 employees are eligible to be mentors
